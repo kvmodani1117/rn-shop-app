@@ -1,0 +1,17 @@
+How to use
+---------
+
+You can use this attached file in two ways:
+
+Run the code
+- npm install
+- npm start
+
+
+
+------------------------------
+dependencies:
+
+1. npm i --save redux react-redux react-navigation react-navigation-header-buttons
+2. expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+3. npm install @react-navigation/stack

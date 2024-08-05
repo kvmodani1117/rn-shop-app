@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Grab it",
+    "slug": "grab-it",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.modani.grab-it",
+      "buildNumber": "1.0.4",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.modani.grab_it",
+      "versionCode": 5,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#4B131C"
+      },
+      "useNextNotificationsApi": true,
+      "permissions": [],
+      "enableDangerousExperimentalLeanBuilds": true,
+      "googleServicesFile": "./google-services.json"
+    },
+    "androidStatusBar": {
+      "hidden": true
+    }
+  }
+}

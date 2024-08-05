@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050864780157",
+    "firebase_url": "https://rn-shop-app-5f4c4-default-rtdb.firebaseio.com",
+    "project_id": "rn-shop-app-5f4c4",
+    "storage_bucket": "rn-shop-app-5f4c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050864780157:android:28ea89aa759fc2eb3a4214",
+        "android_client_info": {
+          "package_name": "com.modani.grab_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050864780157-opmbkmim95gdig7oqqhohrbk0398b336.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Jn0S89BjqE-LLCvw0D3tPPXqyX9mX8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050864780157-opmbkmim95gdig7oqqhohrbk0398b336.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

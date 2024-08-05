@@ -1,0 +1,1 @@
+export const projectBaseURL = 'https://rn-shop-app-5f4c4-default-rtdb.firebaseio.com';
