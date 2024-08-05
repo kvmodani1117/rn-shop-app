@@ -26,7 +26,7 @@ export const signup = (username, mobile, address, email, password) => { //Modifi
     return async (dispatch, getState) => {
 
         const response = await fetch(
-            'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyDbBsEaR-k46Zov6OMOGdLjZ8giE5KQONs',
+            'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyDbBsEaRThisIsRandomStringOnGitHubRealOneIsStoredLocally',
             {
                 method: 'POST',
                 headers: {
